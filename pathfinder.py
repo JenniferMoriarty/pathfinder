@@ -1,3 +1,6 @@
+#pathfinding code from Data Structures and Algorithmic Thinking with Python, 
+#by N. Karumanchi
+
 def pathFinder( Matrix, position, N):
     #returns a list of the paths taken
     if position == (N - 1, N - 1):
